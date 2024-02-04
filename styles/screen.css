@@ -48,3 +48,7 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+section h3 {
+    color: #6EE7B7;
+}
